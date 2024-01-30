@@ -1,0 +1,36 @@
+/**Class: Binary
+ * @author Calina Winfield
+ * @version 1.0
+ * Course: ITEC 2140 section 03 Spring 2024
+ * Written: January 16, 2024
+ *
+ * This class - demonstrates understanding of binary;
+ * one's compliments, two's compliments, converting binary
+ * to decimal equivalents, and vice versa.
+ */
+
+
+
+
+3. Determine the nines complements of the decimal numbers:
+4535 --> 9999 - 4535 = 5464
+507606 --> 999999 - 507606 = 492393
+78534019 --> 99999999 - 78534019 = 21465980
+
+4. Determine the one’s and two’s complements of the binary numbers:
+                          one's                   two's
+0011 0011 -->             1100 1100               1100 1101
+1000 1100 -->             0111 0011               0111 0100
+0000 0101 1101 1101 -->   1111 1010 0010 0010     1111 1010 0010 0011
+
+5. Convert each binary number to its decimal equivalent:
+0000 0101 --> 1 + 4 = 5
+0011 0110 --> 2 + 4 + 16 + 32 = 54
+0000 0001 1101 1001 --> 1 + 8 + 16 + 64 + 128 + 256 = 473
+0000 0001 0101 0101 --> 1 + 4 + 16 + 64 + 256 = 341
+
+6. Convert each decimal number to its binary equivalent:
+2857  --> 0000 1011 0010 1001
+4503  --> 0001 0001 1001 0111
+46098 --> 1011 0100 0001 0010
+694   --> 0000 0010 1011 0110
